@@ -29,7 +29,7 @@ import java.awt.print.PrinterJob;
 import java.util.*;
 import java.net.*;
 import javax.swing.border.LineBorder;
-
+//test comment
 public class SundialGenerator {
 		
 		private static int date;
